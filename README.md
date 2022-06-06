@@ -1,6 +1,6 @@
 # clojure-blog-api
 
-FIXME
+Import Insomnia collection file: Insomnia_clojure_blog_api_collection.json
 
 ## Prerequisites
 
@@ -13,7 +13,3 @@ You will need [Leiningen][] 2.0.0 or above installed.
 To start a web server for the application, run:
 
     lein ring server
-
-## License
-
-Copyright © 2022 FIXME
